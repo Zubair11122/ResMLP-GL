@@ -1,0 +1,5 @@
+Tool,ROC-AUC,PR-AUC
+Our Model,0.957,0.475
+CHASMplus,0.785,0.279
+OncodriveFML,0.615,0.059
+MutSigCV,0.623,0.06

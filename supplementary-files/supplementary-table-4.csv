@@ -1,0 +1,3 @@
+Cancer_Type,Median_Mutations,Mean_Mutations,Mann_Whitney_p
+GBM,288,785.828496,
+COAD,433.5,2125.272727,7.63E-10

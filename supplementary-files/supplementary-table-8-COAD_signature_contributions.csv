@@ -1,0 +1,16 @@
+Signature,Mean_Contribution,Etiology
+SBS1,0.08830968648230135,"Spontaneous deamination of 5-methylcytosine (clock-like, aging)"
+SBS15,0.06496436435527699,Defective DNA mismatch repair (microsatellite unstable tumors)
+SBS10a,0.06361290851348796,POLE exonuclease domain mutations (ultramutated tumors)
+SBS6,0.061991216501533684,Defective DNA mismatch repair (microsatellite unstable tumors)
+SBS10b,0.060016888716179884,POLE exonuclease domain mutations (ultramutated tumors)
+SBS56,0.041530292263208216,Unknown etiology
+SBS10d,0.035951033386857706,Unknown
+SBS87,0.03447970009323809,Unknown etiology
+SBS14,0.02845499928043882,POLE exonuclease domain mutations (ultramutated tumors)
+SBS36,0.02692329718254197,Defective base excision repair (MUTYH mutations)
+SBS10c,0.026832271867391195,Unknown
+SBS44,0.024729726005571665,Defective DNA mismatch repair (microsatellite unstable tumors)
+SBS18,0.022706312342197197,Reactive oxygen species (ROS) damage
+SBS23,0.02161388815618316,Unknown etiology
+SBS32,0.02058427809069838,Azathioprine immunosuppressant treatment

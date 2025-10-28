@@ -1,0 +1,137 @@
+SHAP Analysis Report (20251028_005843)
+========================================
+
+Total features: 177
+Selected features: 104
+
+Top 20 Features:
+                            feature     shap         group  cumulative
+num__alphamissense.am_pathogenicity 0.184267 AlphaMissense    0.053007
+                   num__revel.score 0.180023         REVEL    0.104793
+                    num__cadd.phred 0.170897          CADD    0.153954
+                  num__gerp.gerp_rs 0.133419          GERP    0.192334
+                        num__sbs40c 0.096019         Other    0.219955
+              cat__cancer_type_LUAD 0.087502         Other    0.245126
+                    num__sift.score 0.087071          SIFT    0.270174
+      cat__sift.prediction_Damaging 0.073101          SIFT    0.291202
+        cat__dominant_signature_nan 0.069611         Other    0.311227
+                        num__sbs22a 0.069000         Other    0.331076
+           cat__so_missense_variant 0.064147         Other    0.349529
+                            num__af 0.059859         Other    0.366748
+                         num__sbs95 0.058374         Other    0.383540
+                         num__sbs92 0.049537         Other    0.397790
+                          num__sbs9 0.048764         Other    0.411818
+               cat__cancer_type_GBM 0.044932         Other    0.424743
+                         num__sbs25 0.044355         Other    0.437502
+                            num__dp 0.043425         Other    0.449994
+                        num__sbs10a 0.042184         Other    0.462129
+                         num__sbs87 0.038235         Other    0.473128
+
+Selected Features:
+num__alphamissense.am_pathogenicity
+num__cadd.phred
+num__sift.score
+num__revel.score
+num__gerp.gerp_rs
+num__sbs40c
+cat__cancer_type_LUAD
+cat__sift.prediction_Damaging
+cat__dominant_signature_nan
+num__sbs22a
+cat__so_missense_variant
+num__af
+num__sbs95
+num__sbs92
+num__sbs9
+cat__cancer_type_GBM
+num__sbs25
+num__dp
+num__sbs10a
+num__sbs87
+num__sbs54
+num__sbs41
+cat__sift.prediction_Tolerated
+num__sbs31
+num__sbs53
+num__sbs28
+num__sbs2
+cat__so_stop_gained
+num__sbs35
+num__sbs37
+num__sbs24
+num__sbs5
+num__sbs20
+num__sbs52
+num__sbs94
+num__sbs96
+num__sbs11
+num__sbs34
+num__sbs3
+num__sbs47
+num__sbs10c
+num__sbs38
+num__sbs57
+cat__sift.prediction_nan
+num__sbs59
+num__sbs39
+num__sbs13
+num__sbs36
+num__sbs42
+num__sbs55
+num__sbs7c
+cat__so_frameshift_truncation
+num__sbs15
+num__sbs84
+num__sbs89
+num__sbs58
+num__sbs10b
+num__sbs32
+num__sbs30
+num__sbs97
+num__sbs16
+num__sbs22b
+num__sbs29
+num__sbs6
+num__sbs50
+num__sbs10d
+num__sbs48
+num__sbs98
+num__sbs86
+num__sbs4
+cat__dominant_signature_SBS36
+num__sbs19
+num__sbs93
+num__sbs33
+num__sbs7a
+num__sbs88
+num__sbs46
+cat__dominant_signature_SBS1
+num__sbs99
+num__sbs12
+cat__variant_classification_missense_variant
+num__sbs8
+num__sbs14
+num__sbs40a
+num__sbs23
+cat__dominant_signature_SBS84
+cat__dominant_signature_SBS38
+cat__variant_classification_frameshift_variant
+num__sbs44
+num__sbs56
+num__sbs1
+cat__variant_classification_stop_gained
+num__sbs27
+num__sbs17b
+cat__dominant_signature_SBS11
+cat__dominant_signature_SBS50
+cat__dominant_signature_SBS51
+num__sbs7d
+cat__dominant_signature_SBS2
+num__sbs91
+num__sbs7b
+num__sbs60
+cat__dominant_signature_SBS30
+cat__dominant_signature_SBS59
+
+Generated Figures:
+ - top_features_lollipop_clean_20251028_005843.png

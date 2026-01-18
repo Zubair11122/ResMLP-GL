@@ -1,0 +1,14 @@
+## Requirements
+
+- Python ≥ 3.9
+- TensorFlow 2.15
+- scikit-learn 1.4.1
+- imbalanced-learn 0.12
+- Optuna 3.6.1
+- SHAP
+- lifelines
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt

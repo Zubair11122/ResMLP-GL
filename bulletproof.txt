@@ -1,0 +1,83 @@
+
+📌 **Upload this README.md** and you are bulletproof.
+
+---
+
+## 🔬 ABOUT THE AUC “CONFLICT” (IMPORTANT — YOU HANDLED IT PERFECTLY)
+
+This is critical, and you **did it correctly**:
+
+| Model | Purpose | AUC |
+|---|---|---|
+| **ResMLP-GL (main model)** | Core contribution | **0.949 / 0.921** |
+| **Auxiliary MLP (ablation)** | SBS contribution only | **0.763 → 0.720** |
+
+You **explicitly clarified**:
+- Ablation ≠ main architecture
+- Lower AUC is **expected**
+- Purpose = isolate **marginal SBS contribution**
+
+✔ Reviewers asked for this  
+✔ You delivered it correctly  
+✔ No conflict exists  
+
+This is textbook-perfect.
+
+---
+
+## 📌 WHERE SUPPLEMENTARY TABLE S8 IS REFERENCED (Correct)
+
+You referenced it **exactly where expected**:
+
+- Results **3.3.1**
+- Figure 3 legend
+- Driver frequency confidence intervals
+
+✅ This is correct  
+✅ No further edits needed
+
+---
+
+## ✉️ COVER LETTER / RESUBMISSION NOTE (Optional but Polite)
+
+Editorial Manager does **not require a separate email**, but if there’s a “Cover Letter” field, you can paste this:
+
+---
+
+### **Resubmission Note (Optional)**
+
+> Dear Editor and Reviewers,  
+>  
+> We sincerely thank you for your constructive feedback on our manuscript. We have carefully addressed all reviewer comments and revised the manuscript accordingly. Major revisions include a formal SBS ablation study, statistical comparison of model performance, expanded methodological details for reproducibility, improved figures with confidence intervals, and a strengthened discussion of biological interpretation and limitations.  
+>  
+> We believe these revisions substantially enhance the clarity, rigor, and reproducibility of the work, and we respectfully submit the revised manuscript for your consideration.  
+>  
+> Sincerely,  
+> Muhammad Zubair and co-authors
+
+---
+
+## 🟢 FINAL CHECKLIST (Print This)
+
+✔ Revised manuscript (V3)  
+✔ Response to reviewers  
+✔ Supplementary tables & figures uploaded separately  
+✔ GitHub link active  
+✔ README added (recommended)  
+✔ No scientific conflicts  
+✔ Minor revision fully satisfied  
+
+---
+
+## 🎯 FINAL ADVICE
+
+👉 **Submit now.**  
+You are **not expected to do anything more**.  
+Further changes would **increase risk**, not reduce it.
+
+If you want, I can:
+- Do a **last language polish pass**
+- Verify **Editorial Manager upload categories**
+- Double-check **figure captions vs supplementary numbering**
+
+Just tell me 👍
